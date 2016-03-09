@@ -1,0 +1,131 @@
+table {
+  border-collapse: collapse;
+  border-top-color: white;
+}
+
+td {
+  border: 12px solid #212318;
+}
+
+.first {
+  height: 47px;
+}
+
+.first1 {
+  border-top-style: none;
+  border-left: none;
+}
+
+.first2 {
+  border-top: none;
+}
+
+.first3 {
+  background: #fff06f;
+  border-top-style: none;
+  border-right: none;
+}
+
+.second {
+  height: 128px;
+}
+
+.second1 {
+  width: 49px;
+  border-left: none
+}
+
+.second2 {
+  background: #ff604c;
+}
+
+.second3 {
+  background: #fff06f;
+  border-right: none;
+}
+
+.third {
+  height: 129px;
+}
+
+.third1 {
+  border-left: none;
+}
+
+.third2 {
+  width: 76px;
+}
+
+.third3 {
+  width: 76px;
+  border-right: none;
+}
+
+.fourth {
+  height: 61px;
+}
+
+.fourth1 {
+  background: #2a3732;
+  width: 65px;
+}
+
+.fourth2 {
+  width: 63px;
+}
+
+.fourth2 {
+  background: #2a3732;
+}
+
+.fourth4 {
+  border-right: none;
+}
+
+.fifth {
+  height: 58px;
+}
+
+.fifht1 {
+  background: #fff06f;
+  border-bottom-style: none;
+  border-left: none;
+}
+
+.fifth2 {
+  background: #2a3732;
+}
+
+.fifth3 {
+  background: #2a3732;
+}
+
+.fifth5 {
+  background: #0b4986;
+  border-right-style: none;
+}
+
+.sixth {
+  height: 29px;
+}
+
+.sixt1 {
+  border-bottom: none;
+}
+
+.sixth2 {
+  width: 128px;
+}
+
+.sixth2 {
+  background: #2a3732;
+}
+
+.seventh {
+  height: 31px;
+}
+
+.seventh1 {
+  border-bottom: none;
+  border-right: none;
+}

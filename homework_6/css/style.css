@@ -1,0 +1,43 @@
+@font-face {font-family: "Lucida Sans Unicode Regular"; src: url(fonts/Lucida Sans Unicode Regular.ttf);}
+.wrapper {margin: 27px 45px 0px;
+	max-width: 910px;}
+
+/*HEADER*/
+.header {
+  height: 30px;
+  max-width: 910px;
+  vertical-align: middle;}
+}
+.kontakt {
+  float: left;
+  margin-left: 6px;
+}
+.fone {
+	width: ;
+	color: #;
+	font-size: ;
+}
+
+.forma {
+	box-shadow: ;
+	border-radius: 30%;
+	background-color: #748bac;
+	margin: 0px 50px;
+	width: ; 
+}
+
+submit {
+	background-color: 
+}
+
+
+/*menu*/
+.risunok {
+	border-radius: 10%;
+}
+
+.foto {
+	width: ;
+	height: ;
+	margin-bottom: ;
+}
